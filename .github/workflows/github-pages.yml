@@ -34,7 +34,7 @@ jobs:
           recurse: true
           output_dir: ./output
           front_page: README.md
-          
+
       # This pushes the pages to the GH pages branch or repo, only needs to run once
       - name: Deploy Pages
         uses: peaceiris/actions-gh-pages@v3
