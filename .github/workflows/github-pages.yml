@@ -33,7 +33,7 @@ jobs:
           template: minami
           recurse: true
           output_dir: ./output
-          front_page: README.md
+          front_page: Readme.md
 
       # This pushes the pages to the GH pages branch or repo, only needs to run once
       - name: Deploy Pages
