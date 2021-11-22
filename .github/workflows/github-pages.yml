@@ -30,7 +30,8 @@ jobs:
         uses: andstor/jsdoc-action@v1
         with:
           source_dir: ./src
-          template: minami
+          template: ink-docstrap
+          template_dir: template
           recurse: true
           output_dir: ./output
           front_page: Readme.md
