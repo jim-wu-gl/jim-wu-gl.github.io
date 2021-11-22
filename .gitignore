@@ -1,3 +1,5 @@
-
+.idea
 gh-pages.pub
 gh-pages
+node_modules
+.DS_Store
