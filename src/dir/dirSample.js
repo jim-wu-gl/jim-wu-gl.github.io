@@ -1,6 +1,6 @@
 /**
  * Class to represent something else
- * Class Two
+ * @class ClassTwo
  */
 class ClassTwo {
 

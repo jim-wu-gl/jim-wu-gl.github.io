@@ -1,6 +1,6 @@
 /**
  * Class to represent something
- * Some details here
+ * @class ClassOne
  */
 class ClassOne {
 
