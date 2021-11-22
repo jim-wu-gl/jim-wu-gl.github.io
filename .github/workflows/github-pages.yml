@@ -37,7 +37,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          deploy_key: ${{ secrets.GITHUB_TOKEN }} #should be replaced with proper deploy key
+          github_token: ${{ secrets.GITHUB_TOKEN }} #should be replaced with deploy_key:VALUE from repo secrets
           publish_branch: gh-pages # default value, should match the actual Pages setting in GH
           publish_dir: ./output # should match output_dir above
           destination_dir: ./docs # should match Pages setting in GH
