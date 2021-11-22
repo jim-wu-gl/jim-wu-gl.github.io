@@ -2,40 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2f637e8-6ca6-40cb-a490-058fd51d5a3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jim-wu-jsdoc-poc.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.github/workflows/github-pages.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/github-pages.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stuff.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dir_dirSample.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/OpenSans-Bold-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/OpenSans-Bold-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/OpenSans-Bold-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/OpenSans-BoldItalic-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/OpenSans-BoldItalic-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/OpenSans-BoldItalic-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/OpenSans-Italic-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/OpenSans-Italic-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/OpenSans-Italic-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/OpenSans-Light-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/OpenSans-Light-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/OpenSans-Light-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/OpenSans-LightItalic-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/OpenSans-LightItalic-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/OpenSans-LightItalic-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/OpenSans-Regular-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/OpenSans-Regular-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/OpenSans-Regular-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rootSample.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/linenumber.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/prettify/Apache-License-2.0.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/prettify/lang-css.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/prettify/prettify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/jsdoc-default.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/prettify-jsdoc.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/prettify-tomorrow.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
