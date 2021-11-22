@@ -2,7 +2,7 @@
  * Class to represent something
  * Some details here
  */
-class Stuff {
+class ClassOne {
 
     /**
      * @param {number} input - an input of some kind
@@ -16,10 +16,10 @@ class Stuff {
      * @param {string} moreInput - put some letters here
      * @returns {boolean} always true
      */
-    doMoreStuff(input, moreInput) {
+    DoOneThing(input, moreInput) {
         return true;
     }
 
 }
 
-module.exports = Stuff
+module.exports = ClassOne

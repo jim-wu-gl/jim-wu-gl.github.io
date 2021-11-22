@@ -1,8 +1,8 @@
 /**
- * Class to represent something
- * Some details here
+ * Class to represent something else
+ * Class Two
  */
-class Stuff {
+class ClassTwo {
 
     /**
      * @param {number} input - an input of some kind
@@ -22,4 +22,4 @@ class Stuff {
 
 }
 
-module.exports = Stuff
+module.exports = ClassTwo
