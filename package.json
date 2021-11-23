@@ -4,7 +4,8 @@
   "description": "This is a very simple readme ## That's it There's nothing else here",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs": "jsdoc2md src/*.js > output.md"
   },
   "repository": {
     "type": "git",
