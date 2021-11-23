@@ -21,5 +21,3 @@ class ClassTwo {
     }
 
 }
-
-module.exports = ClassTwo
