@@ -4,9 +4,9 @@
   "description": "This is a very simple readme ## That's it There's nothing else here",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "docs": "jsdoc2md src/*.js src/*/*.js > docs/library.md"
   },
+  "pre-commit": ["docs"],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jim-wu-gl/jsdoc-poc.git"
@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/jim-wu-gl/jsdoc-poc#readme",
   "dependencies": {
-    "ink-docstrap": "^1.3.2"
+    "ink-docstrap": "^1.3.2",
+    "pre-commit": "^1.2.2"
   }
 }
